@@ -20,7 +20,7 @@ body{
 
 1. Tasks
 1. Create new repo
-1. $ npm init
+1. ```$ npm init```
 1. Create README.md
 1. $ git init
 1. $ git add .
