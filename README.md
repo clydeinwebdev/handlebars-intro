@@ -1,5 +1,23 @@
 #Introduction to Express-Handlebars
 
+:octocat: 
+
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
+```html
+<div>This is a html script</div>
+```
+
+```css
+body{
+	background-color: red;
+}
+```
+
 1. Tasks
 1. Create new repo
 1. $ npm init
@@ -15,3 +33,4 @@
 * $ git add .tasks
 * $ git commit -m "adding .tasks"
 * $ git push
+
