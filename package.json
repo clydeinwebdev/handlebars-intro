@@ -1,0 +1,23 @@
+{
+  "name": "handlebars-intro",
+  "version": "1.0.0",
+  "description": "Getting to know handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clydeinwebdev/handlebars-intro.git"
+  },
+  "keywords": [
+    "Express",
+    "Handlebars"
+  ],
+  "author": "Clyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clydeinwebdev/handlebars-intro/issues"
+  },
+  "homepage": "https://github.com/clydeinwebdev/handlebars-intro#readme"
+}
